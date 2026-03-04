@@ -1,0 +1,9 @@
+.agent
+.env
+*.json
+outputs/
+__pycache__/
+annotation_webapp_system_TMFE/
+docs/
+audit_prompts/
+tests/

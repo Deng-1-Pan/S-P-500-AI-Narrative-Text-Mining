@@ -1,0 +1,18 @@
+"""Shared constants used across analysis and research modules."""
+
+from __future__ import annotations
+
+
+GICS_SECTOR_MAP = {
+    10: "Energy",
+    15: "Materials",
+    20: "Industrials",
+    25: "Consumer Discretionary",
+    30: "Consumer Staples",
+    35: "Health Care",
+    40: "Financials",
+    45: "Information Technology",
+    50: "Communication Services",
+    55: "Utilities",
+    60: "Real Estate",
+}
